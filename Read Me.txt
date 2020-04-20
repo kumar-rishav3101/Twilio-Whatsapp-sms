@@ -1,0 +1,5 @@
+Twilio is a platform which is used to send sms from python to various others platform.
+pip install Twilio
+set Twilio account online and register your whatsapp number there
+step are also provided there.
+This send sms to only those accounts who has registered for twilio.
